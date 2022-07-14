@@ -425,7 +425,7 @@ select:-webkit-autofill:focus {
 }
 
 .register .regis-form form {
-	width: 100%;
+	width: 500px;
 	height: 60%;
 	flex-wrap: wrap;
 	display: flex;
