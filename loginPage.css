@@ -419,8 +419,11 @@ select:-webkit-autofill:focus {
 }
 
 .register .judul {
-	width: fit-content;
+	width: 500px;
 	line-height: 30px;
+	margin: auto;
+	position: relative;
+	align-items: flex-start;
 	position: relative;
 }
 
@@ -433,6 +436,7 @@ select:-webkit-autofill:focus {
 	align-items: center;
 	align-self: center;
 	column-gap: 50px;
+	position: relative;
 	/* border: 1px solid black; */
 }
 .register .regis-form input {
@@ -568,6 +572,7 @@ select:-webkit-autofill:focus {
 	}
 
 	.register .judul {
+		width: 80vw;
 		line-height: normal;
 		/* border: 1px solid black; */
 		margin-top: 30px;
